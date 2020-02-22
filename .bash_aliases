@@ -6,3 +6,4 @@ alias cpu2='echo powersave | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scali
 alias showcpu='cpupower frequency-info'
 alias sl=ls
 alias cd..='cd ..'
+alias viw='vim -u ~/.vimwriting'
